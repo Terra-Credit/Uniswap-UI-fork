@@ -12,8 +12,8 @@ export const ZERO_ADDRESS = '0x0000000000000000000000000000000000000000';
 export const FACTORY_ADDRESS = '0x135ae61977dd57f975c5d9c69fecfeda902e8b97';
 export const ROUTER_ADDRESS = '0xfe99cF07a096268562F2255A27D4630721C803dF';
 
-export const LP_TOKEN_NAME = 'Swap-LP-Token';
-export const LP_TOKEN_SYMBOL = 'SWAP-LP';
+export const LP_TOKEN_NAME = 'SpurDex V2';
+export const LP_TOKEN_SYMBOL = 'SPDX-V2';
 
 // a list of tokens by chain
 type ChainTokenList = {
